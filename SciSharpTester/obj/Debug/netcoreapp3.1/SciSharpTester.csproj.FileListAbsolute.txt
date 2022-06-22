@@ -1,0 +1,16 @@
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.csprojAssemblyReference.cache
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.csproj.CoreCompileInputs.cache
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.AssemblyInfoInputs.cache
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.AssemblyInfo.cs
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharpTester.exe
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharpTester.deps.json
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharpTester.runtimeconfig.json
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharpTester.runtimeconfig.dev.json
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharpTester.dll
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharpTester.pdb
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharp.dll
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\bin\Debug\netcoreapp3.1\SciSharp.pdb
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.csproj.CopyComplete
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.dll
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.pdb
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharpTester\obj\Debug\netcoreapp3.1\SciSharpTester.genruntimeconfig.cache

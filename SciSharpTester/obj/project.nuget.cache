@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pOjR1/yqdUXNBDFeWBqXy73YKJn7KV/hC/HGjwAlpTRr+PVOXqwKZ7wB3V4xWBEWKKma6S6Ew+3ZCuoK0ltEA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\talk2\\Google Drive\\AdvancedNumerics\\SciSharpTester\\SciSharpTester.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\talk2\\Google Drive\\AdvancedNumerics\\SciSharp\\SciSharp.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\talk2\\Google Drive\\AdvancedNumerics\\SciSharp\\SciSharp.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

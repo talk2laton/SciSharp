@@ -1,0 +1,9 @@
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\obj\Debug\netstandard2.0\SciSharp.csprojAssemblyReference.cache
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\obj\Debug\netstandard2.0\SciSharp.csproj.CoreCompileInputs.cache
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\obj\Debug\netstandard2.0\SciSharp.AssemblyInfoInputs.cache
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\obj\Debug\netstandard2.0\SciSharp.AssemblyInfo.cs
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\bin\Debug\netstandard2.0\SciSharp.deps.json
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\bin\Debug\netstandard2.0\SciSharp.dll
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\bin\Debug\netstandard2.0\SciSharp.pdb
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\obj\Debug\netstandard2.0\SciSharp.dll
+C:\Users\talk2\OneDrive\Documents\Visual Studio 2019\Templates\ItemTemplates\SciSharp\obj\Debug\netstandard2.0\SciSharp.pdb
